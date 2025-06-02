@@ -38,7 +38,7 @@ Berikut adalah beberapa cuplikan tampilan aplikasi dan notifikasinya:
 <p align="center">
   <img src="documentation/img/loginFailed.png" alt="Notifikasi Login Gagal" width="250"/>
   <br/>
-  <em>Contoh notifikasi jika login gagal. (asumsi untuk `registerFailed.png` juga serupa jika ada)</em>
+  <em>Contoh notifikasi jika login gagal.</em>
 </p>
 <p align="center">
   <img src="documentation/img/registerFailed.png" alt="Notifikasi Registrasi Gagal" width="250"/>
